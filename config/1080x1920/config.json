@@ -1,0 +1,33 @@
+{
+    "region_million_title":[70,300,1010,600],
+    "region_million_answer":[70,300,1010,600],
+    "region_million_answerA":[130,1000,900,1200],
+    "region_million_answerB":[110,1200,900,1400],
+    "region_million_answerC":[110,1400,900,1600],
+    "region_million_answerD":[110,1600,900,1800],
+    
+    "region_top_title":[70,200,650,400],
+    "region_top_answer":[70,300,1010,600],
+    "region_top_answerA":[130,1000,900,1200],
+    "region_top_answerB":[110,1200,900,1400],
+    "region_top_answerC":[110,1400,900,1600],
+    "region_top_answerD":[110,1600,900,1800],
+    
+    "region_super_title":[70,200,650,400],
+    "region_super_answer":[70,300,1010,600],
+    "region_super_answerA":[130,1000,900,1200],
+    "region_super_answerB":[110,1200,900,1400],
+    "region_super_answerC":[110,1400,900,1600],
+    "region_super_answerD":[110,1600,900,1800],
+    
+    "region_tounao_title":[70,600,950,900],
+    "region_tounao_answerA":[130,950,900,1130],
+    "region_tounao_answerB":[110,1140,900,1320],
+    "region_tounao_answerC":[110,1330,900,1520],
+    "region_tounao_answerD":[110,1530,900,1710],
+
+    "app_id":"10689423",
+    "app_key":"nx2bXhPpyG4iuFdjclHuD0ZE",
+    "app_secret":"iBkuMKiMyOg2q9pMHbv1lA5FTns52pPb  ",
+    "api_version":[0, 1]
+}
